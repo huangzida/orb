@@ -1,0 +1,14 @@
+{
+  "tabs": {
+    "basic": "Basic",
+    "interaction": "Interaction",
+    "background": "Background"
+  },
+  "labels": {
+    "hue": "Hue",
+    "hoverIntensity": "Hover Intensity",
+    "rotateOnHover": "Rotate On Hover",
+    "forceHoverState": "Force Hover State",
+    "backgroundColor": "Background Color"
+  }
+}

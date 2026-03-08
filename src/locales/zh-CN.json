@@ -1,0 +1,14 @@
+{
+  "tabs": {
+    "basic": "基础",
+    "interaction": "交互",
+    "background": "背景"
+  },
+  "labels": {
+    "hue": "色相",
+    "hoverIntensity": "悬停强度",
+    "rotateOnHover": "悬停旋转",
+    "forceHoverState": "强制悬停态",
+    "backgroundColor": "背景颜色"
+  }
+}
